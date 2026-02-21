@@ -1,0 +1,106 @@
+                                                      precision    recall  f1-score   support
+
+                                               alexa     0.6667    1.0000    0.8000         2
+                                       do dogs dream     0.5000    1.0000    0.6667         2
+                            do you like cats or dogs     0.4000    1.0000    0.5714         2
+                                         flip a coin     0.3333    0.5000    0.4000         2
+                             give me a dinosaur fact     0.0000    0.0000    0.0000         2
+                                        good morning     0.6667    1.0000    0.8000         2
+                                                help     0.0000    0.0000    0.0000         2
+                        how deep is the indian ocean     0.0000    0.0000    0.0000         2
+                         how do you spell appreciate     0.0000    0.0000    0.0000         2
+                            how far away is the moon     0.0000    0.0000    0.0000         2
+                                  how hot is the sun     0.5000    0.5000    0.5000         2
+                      how many days are in september     0.5000    1.0000    0.6667         2
+                             how many days in a year     0.0000    0.0000    0.0000         2
+                       how many days until christmas     0.3333    0.5000    0.4000         2
+                    how many days until thanksgiving     0.5000    1.0000    0.6667         2
+      how many fantasy points does lebron james have     0.2500    0.5000    0.3333         2
+                          how many ounces in a pound     1.0000    0.5000    0.6667         2
+                      how many seconds are in a year     0.5000    0.5000    0.5000         2
+              how many teaspoons are in a tablespoon     1.0000    1.0000    1.0000         2
+                        how much is an ounce of gold     0.6667    1.0000    0.8000         2
+                                     how old are you     0.5000    0.5000    0.5000         2
+                            how old is henry winkler     0.0000    0.0000    0.0000         2
+                          how old is serena williams     1.0000    0.5000    0.6667         2
+                             how tall is steph curry     0.3333    0.5000    0.4000         2
+               how tall is the empire state building     1.0000    0.5000    0.6667         2
+                                how tall is the rock     0.5000    1.0000    0.6667         2
+                  is a tomato a fruit or a vegetable     1.0000    0.5000    0.6667         2
+                                       pick a number     1.0000    1.0000    1.0000         2
+                                  play npr 91 7 wvxu     1.0000    1.0000    1.0000         2
+                         set an timer for 30 seconds     1.0000    1.0000    1.0000         2
+                                     set volume to 5     1.0000    1.0000    1.0000         2
+                                         surprise me     0.5000    1.0000    0.6667         2
+                                  talk like a pirate     1.0000    1.0000    1.0000         2
+                             tell me a barbecue joke     0.3333    0.5000    0.4000         2
+                               tell me a coffee joke     1.0000    0.5000    0.6667         2
+                                  tell me a fun fact     0.3333    0.5000    0.4000         2
+                            tell me a halloween hack     0.0000    0.0000    0.0000         2
+                                      tell me a joke     0.0000    0.0000    0.0000         2
+                              tell me a spooky story     0.0000    0.0000    0.0000         2
+                            tell me a star wars joke     0.5000    1.0000    0.6667         2
+                        tell me a story about robots     1.0000    1.0000    1.0000         2
+                              tell me some good news     1.0000    1.0000    1.0000         2
+                             tell me something weird     1.0000    0.5000    0.6667         2
+                   translate good morning to spanish     0.6667    1.0000    0.8000         2
+           what are the most popular books this week     1.0000    1.0000    1.0000         2
+what are the standings in the english premier league     0.6667    1.0000    0.8000         2
+                           what are you thankful for     0.0000    0.0000    0.0000         2
+              what happened in the midterm elections     0.5000    0.5000    0.5000         2
+                                      what is gluten     0.5000    1.0000    0.6667         2
+                            what is homecoming about     0.0000    0.0000    0.0000         2
+                            what is my sports update     1.0000    1.0000    1.0000         2
+                           what is my traffic report     0.6667    1.0000    0.8000         2
+                                      what is roblox     1.0000    0.5000    0.6667         2
+                     what is the afc north standings     0.5000    0.5000    0.5000         2
+                        what is the capital of spain     0.2500    0.5000    0.3333         2
+                        what is the colts pats score     0.5000    1.0000    0.6667         2
+               what is the number one song this week     0.0000    0.0000    0.0000         2
+               what is the score of the red sox game     0.2500    0.5000    0.3333         2
+                       what is the time in singapore     0.0000    0.0000    0.0000         2
+                                 what is the weather     1.0000    1.0000    1.0000         2
+                        what is zero divided by zero     0.3333    0.5000    0.4000         2
+                             what movies are playing     1.0000    1.0000    1.0000         2
+                                     what time is it     1.0000    1.0000    1.0000         2
+                           what time is it in hawaii     0.6667    1.0000    0.8000         2
+                                 what time is sunset     1.0000    0.5000    0.6667         2
+                        whats another word for happy     0.0000    0.0000    0.0000         2
+                                   whats in the news     1.0000    1.0000    1.0000         2
+                         whats the best comedy movie     1.0000    0.5000    0.6667         2
+                             whats the date tomorrow     0.0000    0.0000    0.0000         2
+          whats the fourth book in the narnia series     1.0000    0.5000    0.6667         2
+                      whats the history of labor day     0.3333    0.5000    0.4000         2
+                              whats the longest word     0.5000    0.5000    0.5000         2
+                          whats the price of bitcoin     0.5000    1.0000    0.6667         2
+                       whats the question of the day     1.0000    1.0000    1.0000         2
+                whats the scariest movie of all time     0.0000    0.0000    0.0000         2
+                  whats the score of the eagles game     1.0000    0.5000    0.6667         2
+                        whats the weather for sunday     0.5000    0.5000    0.5000         2
+     whats the weather going to be like this weekend     1.0000    0.5000    0.6667         2
+                                      whats trending     0.6667    1.0000    0.8000         2
+                          whats your favorite flower     0.0000    0.0000    0.0000         2
+                           whats your favorite hobby     0.0000    0.0000    0.0000         2
+                           whats your favorite sport     1.0000    0.5000    0.6667         2
+                  when does daylight saving time end     1.0000    0.5000    0.6667         2
+                                    when is hanukkah     0.2500    0.5000    0.3333         2
+                          when is the next full moon     0.0000    0.0000    0.0000         2
+                                 where did yoda live     1.0000    0.5000    0.6667         2
+                             where is mount rushmore     0.0000    0.0000    0.0000         2
+                                     who do you love     0.5000    0.5000    0.5000         2
+                                  who is in mastodon     0.6667    1.0000    0.8000         2
+                     who is winning the world series     1.0000    1.0000    1.0000         2
+                           who is your favorite poet     1.0000    0.5000    0.6667         2
+                        who plays wolverine in x men     0.6667    1.0000    0.8000         2
+                   who scored for the golden knights     1.0000    0.5000    0.6667         2
+                             who wrote anna karenina     0.0000    0.0000    0.0000         2
+                                 who wrote elevation     0.3333    0.5000    0.4000         2
+                  whos playing monday night football     1.0000    1.0000    1.0000         2
+                           whos your favorite author     0.0000    0.0000    0.0000         2
+                        whos your favorite superhero     0.0000    0.0000    0.0000         2
+              why do leaves change color in the fall     0.3333    0.5000    0.4000         2
+                               will it rain tomorrow     1.0000    1.0000    1.0000         2
+
+                                            accuracy                         0.5700       200
+                                           macro avg     0.5457    0.5700    0.5284       200
+                                        weighted avg     0.5457    0.5700    0.5284       200

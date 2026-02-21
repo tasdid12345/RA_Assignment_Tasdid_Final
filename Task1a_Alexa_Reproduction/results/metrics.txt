@@ -1,0 +1,7 @@
+Model: TFIDF DualTokens (raw+bin) + IAT + LinearSVC (calibrated)
+Best C: 8.0
+Top-1 Accuracy: 57.00%
+Top-3 Accuracy: 76.50%
+Top-5 Accuracy: 85.00%
+Total Traces: 1000
+Total Classes: 100
